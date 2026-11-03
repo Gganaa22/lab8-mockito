@@ -1,4 +1,4 @@
-﻿package mn.edu.must.sqat;
+package mn.edu.must.sqat;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.ArgumentMatchers.*;
